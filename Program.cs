@@ -3,6 +3,6 @@ using system;
 static void Main()
 {
 Console.WriteLine("HOLA, MUNDO!");
-Console.WriteLine("cambio");
+Console.WriteLine("cambio de vida");
 }
 
